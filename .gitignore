@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.zip
+used_photo_ids.txt
+config.bat
+node_modules
