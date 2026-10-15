@@ -4,3 +4,13 @@ __pycache__/
 used_photo_ids.txt
 config.bat
 node_modules
+
+# Environment variables and local secrets
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+
+# Local editor and workspace configuration
+.vscode/
